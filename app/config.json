@@ -1,0 +1,60 @@
+{
+  "watched_urls": [
+    {
+      "url": "https://kamernet.nl/huren/huurwoningen-eindhoven?searchview=1&maxRent=0&minSize=2&radius=5&pageNo=1&sort=1",
+      "element_match": "ListingCard_root",
+      "headers": {}
+    },
+    {
+      "url": "https://www.pararius.nl/huurwoningen/eindhoven/0-1750/1-slaapkamers",
+      "element_match": "listing-search-item__link listing-search-item__link--title",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+      }
+    },
+    {
+      "url": "https://www.pararius.nl/huurwoningen/eindhoven/0-1750/1-slaapkamers",
+      "element_match": "listing-search-item__link listing-search-item__link--title",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+      }
+    },
+    {
+      "url": "https://www.funda.nl/zoeken/huur?selected_area=%5B%22eindhoven%22%5D&price=%22-1750%22&object_type=%5B%22apartment%22,%22house%22%5D&publication_date=%223%22&bedrooms=%221-2%22",
+      "element_match": "object-image-link",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+      }
+    },
+    {
+      "url": "https://housinganywhere.com/s/Eindhoven--Netherlands?gender=male&priceMin=60000&priceMax=175000",
+      "element_match": "Listing Card",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+      }
+    },
+    {
+      "url": "https://www.onlyexpats.nl/apartments-for-rent-in/Eindhoven",
+      "element_match": "display: block; height: 183px; overflow: hidden;",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+      }
+    },
+    {
+      "url": "https://www.facebook.com/marketplace/np/112239828802227/propertyrentals?minPrice=600&maxPrice=1750&radius=10&session_id=665920252&exact=false",
+      "element_match": "x1i10hfl xjbqb8w x1ejq31n xd10rxx x1sy0etr x17r0tee x972fbf xcfux6l x1qhh985 xm0m39n x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz x1heor9g x1sur9pj xkrqix3 x1lku1pv",
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+      }
+    }
+  ],
+  "interval": 10,
+  "recipient_emails": [
+    "dan.rayu@gmail.com",
+    "danilant10@gmail.com"
+  ],
+  "email_credentials": {
+    "email": "dan.rayu@gmail.com",
+    "password": "pgjn rcxx jjis tbrn"
+  }
+}
